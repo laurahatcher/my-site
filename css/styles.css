@@ -23,7 +23,7 @@ p {
 }
 a {
   font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
+  font-size: 0.75rem;
   color: #00D2B9;
   margin: 10px;
   text-decoration: none;
@@ -67,7 +67,7 @@ hr {
   text-decoration: none;
 }
 .top-container {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 .middle-container {
   margin-top: 100px;
@@ -80,12 +80,16 @@ hr {
 .cloud {
   width: 80px;
 }
+.intro {
+  width: 25%;
+  margin: auto;
+}
 .profile {
   width: 30%;
   margin: auto;
 }
 .education {
-  width: 40%;
+  width: 50%;
   margin: 0 auto;
 }
 .skill-row {
@@ -98,7 +102,7 @@ hr {
   margin: 0 auto;
 }
 .copyright {
-  font-size: 12px;
+  font-size: 0.75rem;
   color: #F9F7F7;
   padding-top: 10px;
 }
@@ -118,7 +122,7 @@ hr {
 }
 #pin {
   width: 20px;
-  margin-bottom: 0;
+  margin-top: 20px;
 }
 #location {
   font-size: 80%;
